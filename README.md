@@ -15,17 +15,6 @@
 
 - Windows 10 Pro
 
-<h2>List of Prerequisites</h2>
-
-- Windows OS
-- Internet Information Services
-- MySQL Database
-- PHP
-- PHP Manager for IIS
-- Rewrite Module
-- Visual C++ Redistributable package
-- HeidiSQL
-
 <h1>Step-by-Step Guide</h1>
 
 <h1>Conclusion</h1>
