@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Prerequisites and Installation (Part 1)</h1>
 <p>In this installation tutorial, I will walk you through what you need and how to set up osTicket, an open-source help desk ticketing system. With some notes and screenshots to give you a quick peek at the important stuff.</p>
 
 <h2>Environments and Technologies Used</h2>
@@ -202,3 +202,7 @@ Set the permissions of "C:\inetpub\wwwroot\osTicket\include\ost-config.php" to "
 <h1>Conclusion</h1>
 
 Congratulations! You've made it through a tedious process of installing a help desk software by scratch! Now that the osTicket is installed with no errors. You can access your help desk login page at http://localhost/osTicket/scp/login.php. Along with the End Users osTicket URL: http://localhost/osTicket/ you will use for another lesson.
+
+-----
+
+# [Next: osTicket - Post Installation Setup (Part 2)](https://github.com/anumkhanit/post-install-config)
