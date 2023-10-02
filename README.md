@@ -85,9 +85,9 @@
 
 - Download and install the "[Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link)" (rewrite_amd64_en-US.msi) from your installation files.
 
-<h3>6) Create the C:\PHP Directory</h3>
+<h3>6) Create the C:\PHP Directory or Folder</h3>
 
-- Create a directory named "C:\PHP."
+- Find "Windows Files Explorer" and head to "The PC" and create a folder of "PHP".
 
 <h3>7) Install PHP 7.3.8</h3>
 
@@ -197,8 +197,6 @@
 
 <h3>2) Set Permissions</h3>
 Set the permissions of "C:\inetpub\wwwroot\osTicket\include\ost-config.php" to "Read" only.
-
-</ br>
 
 -----
 <h1>Conclusion</h1>
