@@ -73,12 +73,13 @@
 - Go to "Internet Information Services" to "Web Management Tools" to "IIS Management Console"
     - IIS Management Console
 
-  ![5E61661B-A6A0-4F88-936D-5C757ECB012F_4_5005_c](https://github.com/anumkhanit/osticket-prereqs/assets/144633389/f07add84-6388-41c1-bf5f-c22ee73d4275)
-
+<p align="center">
+<img src="https://i.imgur.com/MUljPsb.png" height="50%" width="50%" />
+</p>
 
 <h3>4) Install PHP Manager for IIS</h3>
 
-- Download and install "PHP Manager for IIS" (PHPManagerForIIS_V1.5.0.msi) from your installation files - https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
+- Download and install "[PHP Manager for IIS](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link)" (PHPManagerForIIS_V1.5.0.msi) from your installation files.
 
 <h3>5) Install the Rewrite Module</h3>
 
@@ -90,17 +91,25 @@
 
 <h3>7) Install PHP 7.3.8</h3>
 
-- Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) from your installation files.
+- Download [PHP 7.3.8](https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link) (php-7.3.8-nts-Win32-VC15-x86.zip) from your installation files. (Note: if you see a warning icon, ignore it and keep it!)
+
+<p align="center">
+<img src="https://i.imgur.com/MpP1vqT.jpg" height="50%" width="50%" />
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/nClDfL8.jpg" height="30%" width="50%" />
+</p>
 
 - Unzip the contents into the "C:\PHP" directory.
 
 <h3>8) Install VC_redist.x86.exe</h3>
 
-- Download and install "VC_redist.x86.exe" from your installation files.
+- Download and install "[VC_redist.x86.exe](https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link)" from your installation files.
 
 <h3>9) Install MySQL 5.5.62</h3>
 
-- Download and install "MySQL 5.5.62" (mysql-5.5.62-win32.msi) from your installation files.
+- Download and install "[MySQL 5.5.62](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link)" (mysql-5.5.62-win32.msi) from your installation files.
   
 - During installation, select "Typical Setup" and configure with the password "Password1."
 
@@ -163,7 +172,7 @@
 
 <h3>19) Install HeidiSQL</h3>
 
-- Download and install HeidiSQL from your installation files.
+- Download and install "[HeidiSQL](https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe)" from your installation files.
   
 - Open HeidiSQL and create a new session using "root" and the password "Password1."
 
@@ -194,4 +203,4 @@ Set the permissions of "C:\inetpub\wwwroot\osTicket\include\ost-config.php" to "
 -----
 <h1>Conclusion</h1>
 
-Congratulations! You've made it through a tedious process of installing a help desk software by scratch! Now that the osTicket is installed with no errors. You can access your help desk login page at http://localhost/osTicket/scp/login.php. Along with the End Users osTicket URL: http://localhost/osTicket/
+Congratulations! You've made it through a tedious process of installing a help desk software by scratch! Now that the osTicket is installed with no errors. You can access your help desk login page at http://localhost/osTicket/scp/login.php. Along with the End Users osTicket URL: http://localhost/osTicket/ you will use for another lesson.
