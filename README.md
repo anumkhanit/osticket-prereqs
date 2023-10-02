@@ -78,11 +78,11 @@
 
 <h3>4) Install PHP Manager for IIS</h3>
 
-- Download and install "PHP Manager for IIS" (PHPManagerForIIS_V1.5.0.msi) from your installation files.
+- Download and install "PHP Manager for IIS" (PHPManagerForIIS_V1.5.0.msi) from your installation files - https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
 
 <h3>5) Install the Rewrite Module</h3>
 
-- Download and install the "Rewrite Module" (rewrite_amd64_en-US.msi) from your installation files.
+- Download and install the "[Rewrite Module](url)" (rewrite_amd64_en-US.msi) from your installation files.
 
 <h3>6) Create the C:\PHP Directory</h3>
 
