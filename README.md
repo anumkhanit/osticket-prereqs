@@ -101,7 +101,7 @@
 <img src="https://i.imgur.com/nClDfL8.jpg" height="30%" width="50%" />
 </p>
 
-- Unzip the contents into the "C:\PHP" directory.
+- After downloading the content, first move the content and unzip it into the "PHP folder.
 
 <h3>8) Install VC_redist.x86.exe</h3>
 
